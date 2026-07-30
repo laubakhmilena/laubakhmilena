@@ -132,5 +132,5 @@ Incremental/clicker-игра о развитии секретной лабора
 
 ## 📫 Контакты
 
-- Telegram: ВСТАВИТЬ_ССЫЛКУ
+- Telegram: @Mtik13
 - GitHub: [laubakhmilena](https://github.com/laubakhmilena)
